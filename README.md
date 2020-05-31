@@ -1,28 +1,19 @@
-# This is a large heading
+## Personal information
 
-## This is a smaller reading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of thihgs *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Saint Petersburg, Russia
 
-- This is
-- an unordered
-- list
+### Watching
 
-1. This is
-2. an ordered
-3. list
+Few of my favourite TV series are:
 
-Here is `some code` in the middle of a sentence.
+- *Fleebag*
+- *BoJack Horseman*
+- *The Great*
 
-```
-This is
-a block
-of code
-```
+### Languages I speak
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-nano README.md
+1. Russian
+2. English
+3. German
