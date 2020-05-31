@@ -1,3 +1,3 @@
 I wanted to put the output of the "git log" command into this file using pipe ( | ), but it doesn't work :(
 new line
-123 line for test
+321 line for test
